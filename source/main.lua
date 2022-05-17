@@ -18,6 +18,4 @@ Noble.showFPS = true
 
 --Noble.new(ExampleScene, 1.5, Noble.TransitionType.CROSS_DISSOLVE)
 
---Noble.new(ExampleScene2, 1.5, Noble.TransitionType.CROSS_DISSOLVE)
-
 Noble.new(TestScene, 1.5, Noble.TransitionType.CROSS_DISSOLVE)
